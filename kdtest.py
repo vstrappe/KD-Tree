@@ -1,0 +1,12 @@
+initialize,3,9
+insert,YVE,4,10,16
+insert,JBP,3,18,10
+insert,XKV,12,5,13
+insert,DFJ,18,16,6
+insert,QWY,0,6,2
+insert,EIT,5,13,11
+insert,QYE,14,8,18
+insert,WPH,16,17,9
+insert,TYX,11,4,14
+insert,QHM,19,15,4
+knn,6,10,13,16
